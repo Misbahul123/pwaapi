@@ -1,84 +1,83 @@
 {
-"products":[
-{
+"products":[{
   "id": 1,
-  "name": "Mountain duck",
-  "category": "Omuthiya"
+  "name": "Turkey vulture",
+  "category": "Green"
 }, {
   "id": 2,
-  "name": "Bat, asian false vampire",
-  "category": "Köping"
+  "name": "Siskin, pine",
+  "category": "Violet"
 }, {
   "id": 3,
-  "name": "Alligator, mississippi",
-  "category": "Kŭrdzhali"
+  "name": "Giant armadillo",
+  "category": "Maroon"
 }, {
   "id": 4,
-  "name": "Brown pelican",
-  "category": "Kuangshan"
+  "name": "Little blue penguin",
+  "category": "Fuscia"
 }, {
   "id": 5,
-  "name": "Madagascar fruit bat",
-  "category": "Mayahi"
+  "name": "Wallaby, tammar",
+  "category": "Goldenrod"
 }, {
   "id": 6,
-  "name": "Duck, blue",
-  "category": "Wakuya"
+  "name": "Python, carpet",
+  "category": "Fuscia"
 }, {
   "id": 7,
-  "name": "King cormorant",
-  "category": "Jablah"
+  "name": "Rattlesnake, dusky",
+  "category": "Khaki"
 }, {
   "id": 8,
-  "name": "Campo flicker",
-  "category": "Kamenskiy"
+  "name": "Gull, kelp",
+  "category": "Green"
 }, {
   "id": 9,
-  "name": "Blue crane",
-  "category": "Vangaži"
+  "name": "Ring-tailed gecko",
+  "category": "Fuscia"
 }, {
   "id": 10,
-  "name": "Owl, snowy",
-  "category": "Neftegorsk"
+  "name": "American bighorn sheep",
+  "category": "Maroon"
 }, {
   "id": 11,
-  "name": "Marten, american",
-  "category": "Masaling"
+  "name": "Western grey kangaroo",
+  "category": "Red"
 }, {
   "id": 12,
-  "name": "Burrowing owl",
-  "category": "Oceanside"
+  "name": "Collared lemming",
+  "category": "Mauv"
 }, {
   "id": 13,
-  "name": "Dragon, frilled",
-  "category": "Lycksele"
+  "name": "Horned lark",
+  "category": "Purple"
 }, {
   "id": 14,
-  "name": "Kafue flats lechwe",
-  "category": "San Juan"
+  "name": "River wallaby",
+  "category": "Teal"
 }, {
   "id": 15,
-  "name": "Collared peccary",
-  "category": "Sbo’o"
+  "name": "Two-toed sloth",
+  "category": "Pink"
 }, {
   "id": 16,
-  "name": "Ibis, glossy",
-  "category": "Eshan"
+  "name": "White-browed sparrow weaver",
+  "category": "Yellow"
 }, {
   "id": 17,
-  "name": "Beaver, american",
-  "category": "Svatava"
+  "name": "Blackbuck",
+  "category": "Turquoise"
 }, {
   "id": 18,
-  "name": "Western lowland gorilla",
-  "category": "Suizhong"
+  "name": "Genet, common",
+  "category": "Indigo"
 }, {
   "id": 19,
-  "name": "Bird, pied butcher",
-  "category": "Turi"
+  "name": "Marmot, hoary",
+  "category": "Indigo"
 }, {
   "id": 20,
-  "name": "Hummingbird (unidentified)",
-  "category": "Mzimba"
+  "name": "Short-nosed bandicoot",
+  "category": "Puce"
 }]
 }
