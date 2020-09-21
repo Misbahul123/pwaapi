@@ -1,0 +1,84 @@
+{
+"products":[
+{
+  "id": 1,
+  "name": "Mountain duck",
+  "category": "Omuthiya"
+}, {
+  "id": 2,
+  "name": "Bat, asian false vampire",
+  "category": "Köping"
+}, {
+  "id": 3,
+  "name": "Alligator, mississippi",
+  "category": "Kŭrdzhali"
+}, {
+  "id": 4,
+  "name": "Brown pelican",
+  "category": "Kuangshan"
+}, {
+  "id": 5,
+  "name": "Madagascar fruit bat",
+  "category": "Mayahi"
+}, {
+  "id": 6,
+  "name": "Duck, blue",
+  "category": "Wakuya"
+}, {
+  "id": 7,
+  "name": "King cormorant",
+  "category": "Jablah"
+}, {
+  "id": 8,
+  "name": "Campo flicker",
+  "category": "Kamenskiy"
+}, {
+  "id": 9,
+  "name": "Blue crane",
+  "category": "Vangaži"
+}, {
+  "id": 10,
+  "name": "Owl, snowy",
+  "category": "Neftegorsk"
+}, {
+  "id": 11,
+  "name": "Marten, american",
+  "category": "Masaling"
+}, {
+  "id": 12,
+  "name": "Burrowing owl",
+  "category": "Oceanside"
+}, {
+  "id": 13,
+  "name": "Dragon, frilled",
+  "category": "Lycksele"
+}, {
+  "id": 14,
+  "name": "Kafue flats lechwe",
+  "category": "San Juan"
+}, {
+  "id": 15,
+  "name": "Collared peccary",
+  "category": "Sbo’o"
+}, {
+  "id": 16,
+  "name": "Ibis, glossy",
+  "category": "Eshan"
+}, {
+  "id": 17,
+  "name": "Beaver, american",
+  "category": "Svatava"
+}, {
+  "id": 18,
+  "name": "Western lowland gorilla",
+  "category": "Suizhong"
+}, {
+  "id": 19,
+  "name": "Bird, pied butcher",
+  "category": "Turi"
+}, {
+  "id": 20,
+  "name": "Hummingbird (unidentified)",
+  "category": "Mzimba"
+}]
+}
